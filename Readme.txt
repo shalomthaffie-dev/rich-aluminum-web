@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Thanks for visiting our website
 
-Template Name: TheEvent
-Template URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Owner Name: Rich Mark Taferanyika
+Author: Shalom  Thaffie
